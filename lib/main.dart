@@ -16,6 +16,7 @@ void main() {
 class BizimCevreApp extends StatelessWidget {
   const BizimCevreApp({super.key});
 
+
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
